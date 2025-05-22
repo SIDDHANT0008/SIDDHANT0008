@@ -7,9 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant0008&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant0008" /> </p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/SIDHANT0008/count.svg?"  />
-</div>
 <img src="https://raw.githubusercontent.com/rur/rur/output/snake.svg" alt="Snake animation" />B
-
+</div>
 
 
 
