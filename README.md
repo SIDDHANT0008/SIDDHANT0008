@@ -52,10 +52,6 @@
 
 ---
 
-### 🌊 Weekly Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHANT0008&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
 
 ---
 
