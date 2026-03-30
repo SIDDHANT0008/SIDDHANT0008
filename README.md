@@ -5,14 +5,12 @@
 <br/>
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  ██████╗████████╗ █████╗     ██╗   ██╗██╗                    ▓
-▓ ██╔════╝╚══██╔══╝██╔══██╗    ██║   ██║██║                    ▓
-▓ ██║  ███╗  ██║   ███████║    ██║   ██║██║                    ▓
-▓ ██║   ██║  ██║   ██╔══██║    ╚██╗ ██╔╝██║                    ▓
-▓ ╚██████╔╝  ██║   ██║  ██║     ╚████╔╝ ███████╗               ▓
-▓  ╚═════╝   ╚═╝   ╚═╝  ╚═╝      ╚═══╝  ╚══════╝               ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+\███████╗██╗██████╗ ██████╗ ██╗  ██╗██╗   ██╗
+██╔════╝██║██╔══██╗██╔══██╗██║  ██║██║   ██║
+███████╗██║██║  ██║██║  ██║███████║██║   ██║
+╚════██║██║██║  ██║██║  ██║██╔══██║██║   ██║
+███████║██║██████╔╝██████╔╝██║  ██║╚██████╔╝
+╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Initializing+Developer+Interface...;%5BACTIVE%5D+React+%2B+Node.js+%2B+Cloud+Stack+Loaded;%5BMISSION%5D+Building+the+future%2C+one+commit+at+a+time;%5BSTATUS%5D+Available+for+new+missions+%F0%9F%9F%A2;%5BLOCATION%5D+India+%7C+Full+Stack+Engineer+Online" />
@@ -163,7 +161,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║       ◈ GTA SIDDHANT CITY — ARCADE ZONE ◈           ║
+║       ◈ — ARCADE ZONE ◈           ║
 ╠══════════════════════════════════════════════════════╣
 ║  Choose your challenge, soldier.                     ║
 ║  Only the skilled survive.                           ║
@@ -218,7 +216,7 @@
 ║                                                                   ║
 ║    "In a world full of users, be the developer."                  ║
 ║                                                                   ║
-║    ◈ Thanks for visiting GTA: Siddhant City ◈                    ║
+║    ◈ Thanks for visiting : Siddhant City ◈                    ║
 ║    ◈ Drop a star if you survived the tour   ◈                    ║
 ║    ◈ See you in the next commit             ◈                    ║
 ║                                                                   ║
