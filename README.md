@@ -95,7 +95,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=111111)
 ![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111111)
- [Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=111111)
 ![VS Code](https://img.shields.io/badge/VS_Code-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=111111)
 
 </div>
