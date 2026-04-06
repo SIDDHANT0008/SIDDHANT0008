@@ -84,13 +84,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111)
 ![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=111111)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=111111)
-![Figma](https://img.shields.io/badge/Figma-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=111111)
 
 ### TIER II — BACKEND COMMAND CENTER
 
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=111111)
-![Express](https://img.shields.io/badge/Express.js-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ffffff?style=for-the-badge&logo=express&logoColor=black&labelColor=111111)
-![MongoDB](https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=111111)
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111111)
 ![REST APIs](https://img.shields.io/badge/REST_API-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff6c37?style=for-the-badge&logo=postman&logoColor=white&labelColor=111111)
 
@@ -98,8 +95,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=111111)
 ![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111111)
-![Linux](https://img.shields.io/badge/Linux-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=111111)
-![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=111111)
+ h![Docker](https://img.shields.io/badge/Docker-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=111111)
 ![VS Code](https://img.shields.io/badge/VS_Code-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=111111)
 
 </div>
