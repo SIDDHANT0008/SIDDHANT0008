@@ -112,11 +112,10 @@
 
 | STATUS | CODENAME | OBJECTIVE | TECH STACK |
 |:---:|:---|:---|:---|
-| 🟢 `ACTIVE` | **OPERATION: FULL STACK** | End-to-end web applications | React · Node · MongoDB |
-| 🟡 `IN PROGRESS` | **OPERATION: CLOUD RISE** | Scalable cloud infrastructure | AWS · Docker · Linux |
-| 🔵 `PLANNING` | **OPERATION: OPEN SOURCE** | Contributing to the community | Git · GitHub · OSS |
-| 🟣 `SIDE QUEST` | **OPERATION: UI DOMINATION** | Pixel-perfect interfaces | Tailwind · Figma |
-| ⚪ `COMPLETED` | **OPERATION: API ARCHITECT** | Robust REST API systems | Express · Postman |
+| 🟢 `ACTIVE` | **OPERATION: FULL STACK** | End-to-end web applications | React · Node ·|
+| 🟡 `IN PROGRESS` | **OPERATION: CLOUD RISE** | Scalable cloud infrastructure | AWS · Docker ·|
+| 🔵 `PLANNING` | **OPERATION: OPEN SOURCE** | Contributing to the community | Git · GitHub ·|
+| ⚪ `COMPLETED` | **OPERATION: API ARCHITECT** | Robust REST API systems ·|
 
 > **MISSION BRIEF:** *Each project is a new heist. Plan it. Execute it. Ship it.*
 
