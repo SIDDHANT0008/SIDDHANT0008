@@ -193,7 +193,8 @@
 ◈ ─────────────────────────────────────────────────────── ◈
 ```
 
-[![LinkedIn](https://img.shields.io/badge/%E2%97%88_LINKEDIN-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://linkedin.com/in/SIDDHANT0008)
+[![LinkedIn](https://www.linkedin.com/in/siddhant-nathani-801678369/)](https://linkedin.com/in/SIDDHANT0008)
+[![LinkedIn](https://img.shields.io/badge/%E2%97%88_LINKEDIN-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)]()
 [![Gmail](https://img.shields.io/badge/%E2%97%88_GMAIL-Encrypted_Channel-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:yourname@gmail.com)
 [![Twitter](https://img.shields.io/badge/%E2%97%88_TWITTER-Signal_Feed-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d1a)](https://twitter.com/SIDDHANT0008)
 [![GitHub](https://img.shields.io/badge/%E2%97%88_GITHUB-Source_Vault-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d1a)](https://github.com/SIDDHANT0008)
