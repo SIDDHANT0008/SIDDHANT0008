@@ -24,7 +24,7 @@
   "name"           : "Siddhant Nathani",
   "role"           : "Full Stack Developer",
   "location"       : "India",
-  "stack"          : ["HTML","CSS","JS",React","Node.js","MongoDB","AWS"],
+  "stack"          : ["HTML","CSS","JS","React","Node.js","MongoDB","AWS"],
   "style"          : "Clean code · Modular systems · Scalable design",
   "open_to"        : ["Collaborations", "Open Source", "New Missions"],
   "status"         : "Online — ready to deploy"
