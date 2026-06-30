@@ -1,45 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Siddhant%20The%20Builder&fontSize=38&fontColor=ffd700&fontAlignY=35&desc=Life%20%3D%20Loop%3A%20while(alive)%20%7B%20build();%20%7D&descColor=00ff9d&descSize=14&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:1a1a1a&height=160&section=header&text=Siddhant!&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Branch%20out.%20Merge%20greatness.&descColor=cccccc&descSize=16&descAlignY=78" width="100%"/>
 
-### `SIDDHANT0008 here` 🔥
-
-### Namaste 🙏 I'm Siddhant Nathani
+![Stars](https://img.shields.io/github/stars/SIDDHANT0008?style=flat-square&label=STARS&color=000000&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/SIDDHANT0008?style=flat-square&label=FOLLOWERS&color=000000&labelColor=000000)
+![Forks](https://img.shields.io/badge/FORKS-0-000000?style=flat-square&labelColor=000000)
 
 </div>
 
 ---
 
-## 🕹️ About Me
+### Know About Me
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="20%" align="center">
 
-⚡ Began my journey building things with the MERN stack and React
-
-🔭 I work on Full Stack development and UI design when I'm not deep in Cloud & DevOps rabbit holes
-
-🎓 Currently leveling up my Computer Science skills
-
-💼 Hands-on experience across React, Node.js, and AWS
-
-💬 Ask me about React, Node.js, Express, or AWS/Docker setups
-
-⚡ Interested in Cloud Architecture, Scalable Systems, and Open Source
-
-✨ I only ship things I'm proud of
-
-**🌐 Follow Me on:**
-
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-nathani-801678369)
-[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SIDDHANT0008)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+🧠
 
 </td>
-<td width="35%" align="center">
+<td width="80%">
 
-<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100%" style="border-radius:12px"/>
+**Hey there! I'm Siddhant**
+
+I'm a full stack developer fueled by chai and an unhealthy obsession with clean architecture. By day, I pretend bugs are "edge cases." By night, I write React components that I will inevitably refactor next week. When I'm not coding, I'm either deploying something at 2am or explaining to my own brain why the deployment failed.
 
 </td>
 </tr>
@@ -47,172 +31,67 @@
 
 ---
 
-## 🧩 Languages & Tools I Have Placed My Hands On
+### Top Projects (built to avoid manual labor)
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mongodb,aws,docker,git,linux,vscode" />
-
-</div>
-
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
 <table>
 <tr>
-<td valign="top">
+<td width="20%" align="center">
 
-```
-SIDDHANT0008's GitHub Stats
-────────────────────────────
-Total Stars Earned   : ⭐ XX
-Total Commits (2026) : XXX
-Total PRs             : XX
-Total Issues          : XX
-Contributed to (last) : XX
-```
+🔥
 
 </td>
-<td align="center">
+<td width="80%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SIDDHANT0008&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a1a2e&title_color=ffd700&icon_color=00ff9d&text_color=f0f0f0&border_radius=8" width="320"/>
+**[ PROJECT-ONE ]** — Does the thing nobody asked for, but does it well.
+
+**[ PROJECT-TWO ]** — A Node.js service that manages my side projects better than I manage my sleep schedule.
+
+**[ PROJECT-THREE ]** — Full stack app built because reading documentation felt like too much effort.
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHANT0008&theme=highcontrast&hide_border=true&background=1a1a2e&ring=ffd700&fire=00ff9d&currStreakLabel=ffd700&border_radius=8" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHANT0008&layout=compact&theme=synthwave&hide_border=true&bg_color=1a1a2e&title_color=ffd700&text_color=f0f0f0&border_radius=8" width="48%"/>
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack
+### Connect
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/SIDDHANT0008)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-nathani-801678369)
+[![GMAIL](https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![RESUME](https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=googledocs&logoColor=white)](#)
 
 </div>
 
----
+<br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### ⭐ Top Contributed Repo
-
-```
-SIDDHANT0008's GitHub Contributor Stats
-────────────────────────────────────────
-Repository                         ⭐
-────────────────────────────────────────
-your-repo-1                        ●
-your-repo-2                        ●
-your-repo-3                        ●
-your-repo-4                        ●
-```
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 💬 Random Dev Quote
-
-> *"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."*
+> Code is never finished. It only becomes slightly less terrible over time.
 >
-> — John Carmack
-
-</td>
-</tr>
-</table>
+> Every commit I make is essentially a small, desperate apology to my future self. Someday I'll return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
 
 ---
 
-## ☕ Support Me
+### Contribution
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yourname)
+<img src="https://github-readme-stats.vercel.app/api?username=SIDDHANT0008&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=cccccc&text_color=aaaaaa&border_radius=4" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDHANT0008&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&border_radius=4" width="48%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
----
-
-## 📌 Pinned
+<br/>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-
-**📁 your-repo-1** `Public`
-<br/>A short description of this project goes here.
-<br/>⭐ 0 &nbsp; 🍴 0
-
-</td>
-<td width="50%">
-
-**📁 your-repo-2** `Public`
-<br/>A short description of this project goes here.
-<br/>⭐ 0 &nbsp; 🍴 0
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📁 your-repo-3** `Public`
-<br/>A short description of this project goes here.
-<br/>⭐ 0 &nbsp; 🍴 0
-
-</td>
-<td width="50%">
-
-**📁 your-repo-4** `Public`
-<br/>A short description of this project goes here.
-<br/>⭐ 0 &nbsp; 🍴 0
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=SIDDHANT0008&style=for-the-badge&color=ffd700&label=PROFILE+VIEWS)](https://github.com/SIDDHANT0008)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:000000&height=80&section=footer" width="100%"/>
 </div>
