@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=220&section=header&text=Hey,%20I'm%20Siddhant!%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Cloud%20Tinkerer%20%7C%20Bug%20Whisperer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:556FB5&height=230&section=header&text=Hey,%20I'm%20Siddhant!%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20Cloud%20Tinkerer%20%7C%20Bug%20Whisperer&descAlignY=58&descSize=18" width="100%" />
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+%E2%98%95;Building+stuff+that+(usually)+works+%F0%9F%9B%A0%EF%B8%8F;React+%7C+Node.js+%7C+AWS+%7C+Docker;Always+up+for+a+new+adventure+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="6"/>
 
 </div>
 
@@ -28,7 +36,7 @@ When I'm not building something, I'm probably breaking something else just to le
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100%" style="border-radius:14px"/>
 
 </td>
 </tr>
