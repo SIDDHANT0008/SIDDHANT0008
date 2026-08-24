@@ -2,8 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0c,50:1a0000,100:0c0c0c&height=220&section=header" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0c0c0c,50:1a0000,100:0c0c0c&height=100&section=header&text=SIDDHANT&fontSize=70&fontColor=e23636&fontAlignY=50&desc=With%20great%20power%20comes%20great%20responsibility...%20to%20ship%20clean%20code.&descColor=2196f3&descSize=14&descAlignY=75" width="100%"/>
+
+# 🕷️ SIDDHANT 🕷️
+
+### 🕸️ With great power comes great responsibility... to ship clean code 🕸️
+
 </div>
 
 <br/>
@@ -18,12 +24,12 @@
 
 <div align="center">
 <a href="https://github.com/SIDDHANT0008">
-<img src="https://img.shields.io/github/stars/SIDDHANT0008?style=for-the-badge&label=STARS&color=1a0000&labelColor=0c0c0c&logoColor=e23636" height="28"/>
+<img src="https://img.shields.io/github/stars/SIDDHANT0008?style=for-the-badge&label=%E2%AD%90+STARS&color=1a0000&labelColor=0c0c0c&logoColor=e23636" height="28"/>
 </a>
 <a href="https://github.com/SIDDHANT0008?tab=followers">
-<img src="https://img.shields.io/github/followers/SIDDHANT0008?style=for-the-badge&label=FOLLOWERS&color=1a0000&labelColor=0c0c0c&logoColor=2196f3" height="28"/>
+<img src="https://img.shields.io/github/followers/SIDDHANT0008?style=for-the-badge&label=%F0%9F%95%B8+FOLLOWERS&color=1a0000&labelColor=0c0c0c&logoColor=2196f3" height="28"/>
 </a>
-<img src="https://img.shields.io/badge/STATUS-SWINGING%20THROUGH%20COMMITS-e23636?style=for-the-badge&labelColor=0c0c0c" height="28"/>
+<img src="https://img.shields.io/badge/%F0%9F%95%B8+STATUS-SWINGING%20THROUGH%20COMMITS-e23636?style=for-the-badge&labelColor=0c0c0c" height="28"/>
 </div>
 
 <br/>
@@ -32,7 +38,7 @@
 <tr>
 <td width="100%" align="center">
 
-### `> whoami`
+## 🕸️ `> whoami` 🕸️
 
 </td>
 </tr>
@@ -67,7 +73,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <tr>
 <td align="center">
 
-### `> ls projects/`
+## 🕷️ `> ls projects/` 🕷️
 
 </td>
 </tr>
@@ -78,7 +84,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <tr>
 <td width="33%" valign="top" style="border:1px solid #e23636; border-radius:12px; padding:22px; background:#0c0c0c;">
 
-**project-one**
+### 🕸️ project-one
 
 > *Does the thing nobody asked for — and does it properly.*
 
@@ -87,7 +93,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 </td>
 <td width="33%" valign="top" style="border:1px solid #2196f3; border-radius:12px; padding:22px; background:#0c0c0c;">
 
-**project-two**
+### 🕷️ project-two
 
 > *A Node.js service that keeps side projects on track better than its author keeps a sleep schedule.*
 
@@ -96,7 +102,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 </td>
 <td width="33%" valign="top" style="border:1px solid #e23636; border-radius:12px; padding:22px; background:#0c0c0c;">
 
-**project-three**
+### 🌐 project-three
 
 > *A full stack app that exists mainly because reading the docs felt like more effort than writing it from scratch.*
 
@@ -114,7 +120,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### `> cat tech-stack.log`
+## 🕸️ `> cat tech-stack.log` 🕸️
 
 <br/>
 
@@ -135,7 +141,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### `> git log --stats`
+## 🕷️ `> git log --stats` 🕷️
 
 <br/>
 
@@ -161,7 +167,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### `> connect --all`
+## 🌐 `> connect --all` 🌐
 
 <br/>
 
@@ -190,15 +196,14 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SIDDHANT0008&color=e23636&style=for-the-badge&label=PROFILE+VIEWS" height="28"/>
+<img src="https://komarev.com/ghpvc/?username=SIDDHANT0008&color=e23636&style=for-the-badge&label=%F0%9F%95%B8+PROFILE+VIEWS" height="28"/>
 
 <br/>
 
-<samp>"Whatever life holds in store for me, I will never forget these words: 'With great power comes great responsibility.'"</samp>
+## 🕷️ "Whatever life holds in store for me, I will never forget these words: 'With great power comes great responsibility.'" 🕷️
 
 <br/>
 
-<i>— Uncle Ben (and every senior dev reviewing my PR)</i>
+### 🕸️ — Uncle Ben (and every senior dev reviewing my PR) 🕸️
 
 </div>
-
