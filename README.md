@@ -3,17 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/LSNqpYqGRqwrQ/giphy.gif" width="150" alt="Spider-Man"/>
-</div>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0c0c0c,50:1a0000,100:0c0c0c&height=100&section=header&text=SIDDHANT&fontSize=70&fontColor=e23636&fontAlignY=50&desc=With%20great%20power%20comes%20great%20responsibility...%20to%20ship%20clean%20code.&descColor=2196f3&descSize=14&descAlignY=75" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Spider-Man Swinging"/>
 </div>
 
 <br/>
@@ -22,12 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E23636&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Web-Slinging+Code+Since+Day+One;React+%7C+Node+%7C+Architecture" alt="Typing SVG" />
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Spider-Man Web"/>
 </div>
 
 <br/>
@@ -55,12 +39,6 @@
 <tr>
 <td width="100%" style="border:1px solid #e23636; border-radius:12px; padding:28px; background: linear-gradient(135deg, #0c0c0c 0%, #1a0000 50%, #0c0c0c 100%);">
 
-<div align="center">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="80" alt="Spider-Man"/>
-</div>
-
-<br/>
-
 ```javascript
 const siddhant = {
     role: "Full Stack Developer",
@@ -85,12 +63,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <br/>
 
-<div align="center">
-<img src="https://media.giphy.com/media/LSNqpYqGRqwrQ/giphy.gif" width="120" alt="Spider-Man"/>
-</div>
-
-<br/>
-
 <table width="100%">
 <tr>
 <td align="center">
@@ -106,10 +78,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <tr>
 <td width="33%" valign="top" style="border:1px solid #e23636; border-radius:12px; padding:22px; background:#0c0c0c;">
 
-<div align="center">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60" alt="Spider-Man"/>
-</div>
-
 **project-one**
 
 > *Does the thing nobody asked for — and does it properly.*
@@ -119,10 +87,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 </td>
 <td width="33%" valign="top" style="border:1px solid #2196f3; border-radius:12px; padding:22px; background:#0c0c0c;">
 
-<div align="center">
-<img src="https://media.giphy.com/media/LSNqpYqGRqwrQ/giphy.gif" width="60" alt="Spider-Man"/>
-</div>
-
 **project-two**
 
 > *A Node.js service that keeps side projects on track better than its author keeps a sleep schedule.*
@@ -131,10 +95,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 </td>
 <td width="33%" valign="top" style="border:1px solid #e23636; border-radius:12px; padding:22px; background:#0c0c0c;">
-
-<div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" alt="Spider-Man"/>
-</div>
 
 **project-three**
 
@@ -149,12 +109,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Spider-Man Web"/>
-</div>
 
 <br/>
 
@@ -175,12 +129,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="32"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://media.giphy.com/media/LSNqpYqGRqwrQ/giphy.gif" width="120" alt="Spider-Man"/>
 </div>
 
 <br/>
@@ -212,12 +160,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <br/>
 
 <div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Spider-Man Swinging"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 ### `> connect --all`
 
@@ -241,12 +183,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <br/>
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Spider-Man Web"/>
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0c,50:1a0000,100:0c0c0c&height=120&section=footer" width="100%"/>
 </div>
 
@@ -258,10 +194,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <br/>
 
-<img src="https://media.giphy.com/media/LSNqpYqGRqwrQ/giphy.gif" width="100" alt="Spider-Man"/>
-
-<br/>
-
 <samp>"Whatever life holds in store for me, I will never forget these words: 'With great power comes great responsibility.'"</samp>
 
 <br/>
@@ -269,3 +201,4 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <i>— Uncle Ben (and every senior dev reviewing my PR)</i>
 
 </div>
+
