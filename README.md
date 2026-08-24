@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E23636&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%A7%84;Web-Slinging+Code+Since+Day+One;React+%7C+Node+%7C+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E23636&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Web-Slinging+Code+Since+Day+One;React+%7C+Node+%7C+Architecture" alt="Typing SVG" />
 
 </div>
 
@@ -34,10 +34,10 @@
 
 <div align="center">
 <a href="https://github.com/SIDDHANT0008">
-<img src="https://img.shields.io/github/stars/SIDDHANT0008?style=for-the-badge&label=%E2%AD%90+STARS&color=1a0000&labelColor=0c0c0c&logoColor=e23636" height="28"/>
+<img src="https://img.shields.io/github/stars/SIDDHANT0008?style=for-the-badge&label=STARS&color=1a0000&labelColor=0c0c0c&logoColor=e23636" height="28"/>
 </a>
 <a href="https://github.com/SIDDHANT0008?tab=followers">
-<img src="https://img.shields.io/github/followers/SIDDHANT0008?style=for-the-badge&label=%F0%9F%95%B8+FOLLOWERS&color=1a0000&labelColor=0c0c0c&logoColor=2196f3" height="28"/>
+<img src="https://img.shields.io/github/followers/SIDDHANT0008?style=for-the-badge&label=FOLLOWERS&color=1a0000&labelColor=0c0c0c&logoColor=2196f3" height="28"/>
 </a>
 <img src="https://img.shields.io/badge/STATUS-SWINGING%20THROUGH%20COMMITS-e23636?style=for-the-badge&labelColor=0c0c0c" height="28"/>
 </div>
@@ -48,7 +48,7 @@
 <tr>
 <td width="100%" align="center">
 
-### 🕸️ `> whoami`
+### `> whoami`
 
 </td>
 </tr>
@@ -95,7 +95,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <tr>
 <td align="center">
 
-### 🕷️ `> ls projects/`
+### `> ls projects/`
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60" alt="Spider-Man"/>
 </div>
 
-**🕸️ project-one**
+**project-one**
 
 > *Does the thing nobody asked for — and does it properly.*
 
@@ -123,7 +123,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <img src="https://media.giphy.com/media/LSNqpYqGRqwrQ/giphy.gif" width="60" alt="Spider-Man"/>
 </div>
 
-**🕷️ project-two**
+**project-two**
 
 > *A Node.js service that keeps side projects on track better than its author keeps a sleep schedule.*
 
@@ -136,7 +136,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" alt="Spider-Man"/>
 </div>
 
-**🌐 project-three**
+**project-three**
 
 > *A full stack app that exists mainly because reading the docs felt like more effort than writing it from scratch.*
 
@@ -160,7 +160,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### 🕸️ `> cat tech-stack.log`
+### `> cat tech-stack.log`
 
 <br/>
 
@@ -187,7 +187,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### 📊 `> git log --stats`
+### `> git log --stats`
 
 <br/>
 
@@ -219,7 +219,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### 🌐 `> connect --all`
+### `> connect --all`
 
 <br/>
 
