@@ -48,7 +48,7 @@
 <tr>
 <td width="100%" align="center">
 
-### 🕸️ `> whoami`
+### `> whoami`
 
 </td>
 </tr>
@@ -95,7 +95,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <tr>
 <td align="center">
 
-### 🦸 `> ls projects/`
+### `> ls projects/`
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60" alt="Spider-Man"/>
 </div>
 
-**🕸️ project-one**
+**project-one**
 
 > *Does the thing nobody asked for — and does it properly.*
 
@@ -123,7 +123,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <img src="https://media.giphy.com/media/LSNqpYqGRqwrQ/giphy.gif" width="60" alt="Spider-Man"/>
 </div>
 
-**🕷️ project-two**
+**project-two**
 
 > *A Node.js service that keeps side projects on track better than its author keeps a sleep schedule.*
 
@@ -136,7 +136,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" alt="Spider-Man"/>
 </div>
 
-**🌐 project-three**
+**project-three**
 
 > *A full stack app that exists mainly because reading the docs felt like more effort than writing it from scratch.*
 
@@ -160,7 +160,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### 🛠️ `> cat tech-stack.log`
+### `> cat tech-stack.log`
 
 <br/>
 
@@ -187,7 +187,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### 📊 `> git log --stats`
+### `> git log --stats`
 
 <br/>
 
@@ -219,7 +219,7 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <div align="center">
 
-### 🌐 `> connect --all`
+### `> connect --all`
 
 <br/>
 
