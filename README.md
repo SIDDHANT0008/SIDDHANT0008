@@ -155,12 +155,6 @@ Most nights land the same way: something ships, something breaks, and I spend th
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
 </div>
 
 <br/>
@@ -183,6 +177,22 @@ Most nights land the same way: something ships, something breaks, and I spend th
 <a href="#">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" height="36"/>
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🕸️ Snake Game 🕸️
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/SIDDHANT0008/SIDDHANT0008/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
